@@ -1,1 +1,3 @@
-My first readme
+My first readme.
+Learn is so interesting and fun.
+Do hard things!
